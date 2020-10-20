@@ -13,7 +13,7 @@ export class GameFormComponent implements OnInit {
   @HostBinding('class') class='row';
   
   public image:any;
-  public url:string= 'http://placehold.it/180';
+  public url:string= 'http://www.chesapeakevamartialarts.com/blog/wp-content/uploads/2015/10/no_logo.gif';
 
   public game:Game={
     id:0,
